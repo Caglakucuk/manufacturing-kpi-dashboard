@@ -15,19 +15,23 @@ The goal of this project is to transform raw operational data into actionable in
 High-level KPIs
 Monthly production trend
 OEE performance indicator
+![executiveoverview](executiveoverview.png)
 ##### Page 2 – Machine Analysis
 Machine-based production performance
 Capacity utilization comparison
 Fire rate comparison by machine
+![fire](fire.png)
 ##### Page 3 – Inventory & Delivery
 Inventory trend over time
 Critical stock monitoring
 On-time delivery performance
+![iventory-delivery](iventory-delivery.png)
 ##### 🛠️ Technologies Used
 Power BI
 DAX
 Relational Data Modeling (Star Schema)
 KPI Design & Performance Analytics
+![Summary](summary.png)
 ##### 📈 Key Concepts Applied
 Fact & Dimension Modeling
 One-to-Many Relationships
